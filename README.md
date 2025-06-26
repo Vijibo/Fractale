@@ -23,3 +23,4 @@ Ce projet Java permet de générer et d'afficher des fractales graphiquement à 
 
 ```bash
 javac Fractale.java
+java Fractale
